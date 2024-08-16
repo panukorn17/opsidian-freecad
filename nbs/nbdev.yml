@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "opsidian-freecad"
+  site-url: "https://panukorn17.github.io/opsidian-freecad"
+  description: "repository to create freecad geometry for opsidian"
+  repo-branch: main
+  repo-url: "https://github.com/panukorn17/opsidian-freecad"
