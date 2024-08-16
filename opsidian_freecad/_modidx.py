@@ -5,4 +5,11 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://panukorn17.github.io',
                 'git_url': 'https://github.com/panukorn17/opsidian-freecad',
                 'lib_path': 'opsidian_freecad'},
-  'syms': {'opsidian_freecad.core': {'opsidian_freecad.core.foo': ('core.html#foo', 'opsidian_freecad/core.py')}}}
+  'syms': { 'opsidian_freecad.core': { 'opsidian_freecad.core.calculate_face_coords': ( 'core.html#calculate_face_coords',
+                                                                                        'opsidian_freecad/core.py'),
+                                       'opsidian_freecad.core.get_cartesian_coords': ( 'core.html#get_cartesian_coords',
+                                                                                       'opsidian_freecad/core.py'),
+                                       'opsidian_freecad.core.get_spline_details': ( 'core.html#get_spline_details',
+                                                                                     'opsidian_freecad/core.py'),
+                                       'opsidian_freecad.core.gradient_to_spline_angle': ( 'core.html#gradient_to_spline_angle',
+                                                                                           'opsidian_freecad/core.py')}}}
